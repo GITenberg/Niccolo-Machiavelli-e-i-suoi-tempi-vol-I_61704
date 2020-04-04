@@ -1,0 +1,28 @@
+_repo: Niccolo-Machiavelli-e-i-suoi-tempi-vol-I_61704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villari, Pasquale
+    birthdate: 1827
+    deathdate: 1917
+    gutenberg_agent_id: '43309'
+    url: http://www.gutenberg.org/2009/agents/43309
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Pasquale_Villari
+    - https://en.wikipedia.org/wiki/Pasquale_Villari
+description: ''
+gutenberg_issued: '2020-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61704'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Machiavelli, Niccolò, 1469-1527'
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- 1492-1559'
+- GITenberg
+title: Niccolò Machiavelli e i suoi tempi, vol. I
+url: http://www.gutenberg.org/ebooks/61704
